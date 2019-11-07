@@ -58,6 +58,7 @@ class PageWrapper extends Component {
                         </div>
                     </nav>
                 </header>
+
                 {this.props.children}
 
 
@@ -91,7 +92,7 @@ class PageWrapper extends Component {
                                         <li><Link to="mailto:/">mrx.vworks@mail.com</Link ></li>
                                         <li><Link to="/Home">www.VSPACES.com</Link ></li>
                                         <li>Vidyaashish Spaces Pvt. Ltd.<br />#126, 2nd floor, 1st main <br />Gokulam 3rd stage Mysore 570002</li>
-                                        <li>Contact No: 8431602012, 9663713311</li>
+                                        <li>Contact No: 84316020XX, 96637133XX</li>
                                     </ul>
                                 </div>
                             </div>
