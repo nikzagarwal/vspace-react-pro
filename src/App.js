@@ -27,7 +27,7 @@ class App extends Component{
       />
     <Route
       path="/Home"
-      component={Home}
+      component={About}
       />
 
       <Route
