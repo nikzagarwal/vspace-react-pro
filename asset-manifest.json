@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/vspace-react-pro/static/css/main.34de6062.chunk.css",
+    "main.js": "/vspace-react-pro/static/js/main.be25a851.chunk.js",
+    "main.js.map": "/vspace-react-pro/static/js/main.be25a851.chunk.js.map",
+    "runtime-main.js": "/vspace-react-pro/static/js/runtime-main.30882c16.js",
+    "runtime-main.js.map": "/vspace-react-pro/static/js/runtime-main.30882c16.js.map",
+    "static/js/2.fcc9d2a5.chunk.js": "/vspace-react-pro/static/js/2.fcc9d2a5.chunk.js",
+    "static/js/2.fcc9d2a5.chunk.js.map": "/vspace-react-pro/static/js/2.fcc9d2a5.chunk.js.map",
+    "index.html": "/vspace-react-pro/index.html",
+    "precache-manifest.1beefce4278f83021d6a40f1f2255e82.js": "/vspace-react-pro/precache-manifest.1beefce4278f83021d6a40f1f2255e82.js",
+    "service-worker.js": "/vspace-react-pro/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/vspace-react-pro/static/css/main.34de6062.chunk.css.map",
+    "static/media/1.png": "/vspace-react-pro/static/media/1.084e5a59.png",
+    "static/media/2.png": "/vspace-react-pro/static/media/2.a0586d1a.png",
+    "static/media/3.png": "/vspace-react-pro/static/media/3.0a4721a8.png",
+    "static/media/4.png": "/vspace-react-pro/static/media/4.25292308.png",
+    "static/media/5.png": "/vspace-react-pro/static/media/5.be55fbfa.png",
+    "static/media/6.png": "/vspace-react-pro/static/media/6.8a6d7169.png",
+    "static/media/banner.png": "/vspace-react-pro/static/media/banner.9cb1f856.png",
+    "static/media/geo-fenced.jpg": "/vspace-react-pro/static/media/geo-fenced.ccd8b11c.jpg",
+    "static/media/gito.png": "/vspace-react-pro/static/media/gito.fadb0d5b.png",
+    "static/media/multi-currency.jpg": "/vspace-react-pro/static/media/multi-currency.745e5d73.jpg",
+    "static/media/p1.png": "/vspace-react-pro/static/media/p1.f143cc9a.png",
+    "static/media/p2.png": "/vspace-react-pro/static/media/p2.3c0de3f2.png",
+    "static/media/p3.png": "/vspace-react-pro/static/media/p3.67370089.png",
+    "static/media/p4.png": "/vspace-react-pro/static/media/p4.ca0dc4d7.png",
+    "static/media/p5.png": "/vspace-react-pro/static/media/p5.8b2edb11.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30882c16.js",
+    "static/js/2.fcc9d2a5.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.be25a851.chunk.js"
+  ]
+}
