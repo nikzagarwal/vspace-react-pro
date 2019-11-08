@@ -35,7 +35,7 @@ class App extends Component{
         component={About}
       />
       <Route
-      path="/Contact"
+      path="/contact"
         component={Contact}
       />
        <Route
