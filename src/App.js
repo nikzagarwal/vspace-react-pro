@@ -1,11 +1,12 @@
 import React,{Component} from 'react';
+
 import PageWrapper from './Component/PageWrapper.js';
 import Home from './Component/Home.js';
 import About from './Component/About.js';
 import Contact from './Component/Contact.js';
 import Gito from './Component/Gito.js';
 
-import {BrowserRouter as Router,Route,  Link} from "react-router-dom";
+import {BrowserRouter as Router,Route,} from "react-router-dom";
 
 class App extends Component{
  
@@ -16,7 +17,11 @@ class App extends Component{
     <Router>
     <PageWrapper>
       <Route
-       exact={true}
+      exact={true}
+      path="/"
+      component={Home}
+      />
+      <Route
       path="/Home"
       component={Home}
       />
