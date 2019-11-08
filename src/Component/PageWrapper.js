@@ -62,7 +62,7 @@ class PageWrapper extends Component {
                 {this.props.children}
 
 
-                <div className="container mt-5 pt-5"></div>
+                <div className="container mt-3 pt-3"></div>
 
 
                 <footer className="footer">
@@ -119,19 +119,19 @@ class PageWrapper extends Component {
                         <div className="footer-distributed">
                             <div className="footer-left">
                                 <p className="footer-company-name">All Rights Reserved. &copy; 2019 <Link to="/"> Vspaces </Link ></p>
-                        </div>
+                            </div>
 
-                        <div className="footer-right">
-                            <form method="get" action="#">
-                                <input placeholder="Subscribe our newsletter.." name="search" />
-                                <i className="fa fa-envelope-o"></i>
-                            </form>
+                            <div className="footer-right">
+                                <form method="get" action="#">
+                                    <input placeholder="Subscribe our newsletter" name="search" />
+                                    <i className="fa fa-envelope-o"></i>
+                                </form>
+                            </div>
                         </div>
                     </div>
                 </div>
-                </div>
-                </div>
-            
+            </div>
+
         );
     }
 }
