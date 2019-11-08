@@ -16,11 +16,7 @@ class App extends Component{
     <Router>
     <PageWrapper>
       <Route
-      exact={true}
-      path="/"
-      component={Home}
-      />
-    <Route
+       exact={true}
       path="/Home"
       component={Home}
       />
