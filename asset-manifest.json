@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/vspace-react-pro/static/css/main.34de6062.chunk.css",
-    "main.js": "/vspace-react-pro/static/js/main.be25a851.chunk.js",
-    "main.js.map": "/vspace-react-pro/static/js/main.be25a851.chunk.js.map",
+    "main.js": "/vspace-react-pro/static/js/main.09552cc5.chunk.js",
+    "main.js.map": "/vspace-react-pro/static/js/main.09552cc5.chunk.js.map",
     "runtime-main.js": "/vspace-react-pro/static/js/runtime-main.30882c16.js",
     "runtime-main.js.map": "/vspace-react-pro/static/js/runtime-main.30882c16.js.map",
     "static/js/2.fcc9d2a5.chunk.js": "/vspace-react-pro/static/js/2.fcc9d2a5.chunk.js",
     "static/js/2.fcc9d2a5.chunk.js.map": "/vspace-react-pro/static/js/2.fcc9d2a5.chunk.js.map",
     "index.html": "/vspace-react-pro/index.html",
-    "precache-manifest.1beefce4278f83021d6a40f1f2255e82.js": "/vspace-react-pro/precache-manifest.1beefce4278f83021d6a40f1f2255e82.js",
+    "precache-manifest.b6cc270513e258e2742a555281574531.js": "/vspace-react-pro/precache-manifest.b6cc270513e258e2742a555281574531.js",
     "service-worker.js": "/vspace-react-pro/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/vspace-react-pro/static/css/main.34de6062.chunk.css.map",
     "static/media/1.png": "/vspace-react-pro/static/media/1.084e5a59.png",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.30882c16.js",
     "static/js/2.fcc9d2a5.chunk.js",
     "static/css/main.34de6062.chunk.css",
-    "static/js/main.be25a851.chunk.js"
+    "static/js/main.09552cc5.chunk.js"
   ]
 }
