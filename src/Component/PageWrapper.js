@@ -24,7 +24,7 @@ class PageWrapper extends Component {
                                         <div className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                                         </div>
 
-                                        <Link className="TR dropdown-item menu-fc"  to="/gito-ai">GITO.ai</Link >
+                                        <Link className="TR dropdown-item menu-fc" target="blank" to="/gito-ai">GITO.ai</Link >
                                         <Link className="TR dropdown-item menu-fc" to="/marketPlace">MARKET.place</Link >
                                         <Link className="dropdown-item menu-fc" to="/survey">SURVEY.ai</Link >
                                         <Link className="dropdown-item menu-fc" to="/digit"> DIGIT.ai</Link >
