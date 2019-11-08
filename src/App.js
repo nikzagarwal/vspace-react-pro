@@ -17,6 +17,11 @@ class App extends Component{
     <PageWrapper>
       <Route
       exact={true}
+      path="/vspace-react-pro/"
+      component={Home}
+      />
+      <Route
+      
       path="/"
       component={Home}
       />
