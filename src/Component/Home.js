@@ -125,12 +125,12 @@ class Home extends Component {
                             <Link to="/headless">
                                 <img src={service1} />
                             </Link >
-                            <Link to=" /mobilApplication.html">
+                            <Link to="/mobilApplication">
                                 <img src={service2} />
                             </Link >
                         </div>
                         <div className="column">
-                            <Link to=" /digitalComerce">
+                            <Link to="/digitalComerce">
                                 <img src={service3}/>
                             </Link >
                         </div>
